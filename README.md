@@ -97,7 +97,7 @@ Build your models and test them while keeping in mind you would need data to pro
 
 **Objectives:**
 
-* <b>Sub-Task 1:</b> Build churn model(s) to try to predict the churn probability of any customer, taking into account all explanatory variables you have constructed in the feature engineering process.
+* <b>Sub-Task 1:</b> Build churn model(s) to try to predict the churn probability of any customer, taking into account all the explanatory variables you have constructed in the feature engineering process.
 
 * <b>Sub-Task 2:</b> Evaluate your model, using a holdout set, and with metrics of your choosing. Be sure to pick a metric that would make sense for this business case.
 
